@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Asian_movie_web/static/css/main.ae97da12.css",
+    "main.js": "/Asian_movie_web/static/js/main.a1379e99.js",
+    "static/js/453.746fdf7c.chunk.js": "/Asian_movie_web/static/js/453.746fdf7c.chunk.js",
+    "static/media/Pasted image (8).png": "/Asian_movie_web/static/media/Pasted image (8).160055b591489d9addd4.png",
+    "index.html": "/Asian_movie_web/index.html",
+    "main.ae97da12.css.map": "/Asian_movie_web/static/css/main.ae97da12.css.map",
+    "main.a1379e99.js.map": "/Asian_movie_web/static/js/main.a1379e99.js.map",
+    "453.746fdf7c.chunk.js.map": "/Asian_movie_web/static/js/453.746fdf7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae97da12.css",
+    "static/js/main.a1379e99.js"
+  ]
+}
